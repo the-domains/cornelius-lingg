@@ -1,16 +1,16 @@
-typography_spectrum: 0.021618765080347657
+layout_spectrum: 0.6595445673447102
+typography_spectrum: 0.4270077422261238
 color:
-  brandStrength: 0.7937109293416142
-  lightness: 0.4380775345489383
-  saturation: 0.5226484322920442
-  rhythmicContrast: 0.39262288296595216
+  brandStrength: 0.026662465184926987
+  lightness: 0.745072974357754
+  saturation: 0.644875796046108
+  rhythmicContrast: 0.15596543275751173
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.8341603691224009
+    - '#15211F'
+    - '#FFFFFF'
+    - '#6AA9D2'
+    - '#4C6673'
+    - '#CE9836'
 name: Cornelius Lingg
 navigation:
   - name: Anthropologie
